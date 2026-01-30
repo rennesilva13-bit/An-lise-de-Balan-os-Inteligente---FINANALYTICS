@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+reportlab>=4.0.0
+openpyxl>=3.1.0
